@@ -1,5 +1,5 @@
 import Home from '../pages/index'
-const routes = [
+export default [
   {
     path:'/Home',
     component:Home,
